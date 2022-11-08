@@ -1,5 +1,5 @@
 ## Hey everyone :v:
-🔭 I’m currently working on my landing page<br>🤝 I’m looking for student Job !<br>🌱 I’m currently learning JavaScript & PHP<br>
+🔭 I've just finished my landing page<br>🤝 I’m looking for student Job !<br>🌱 And currently learning JavaScript & PHP<br>
 
 
 ## 🌐 Socials:
